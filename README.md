@@ -18,4 +18,5 @@ Raw sequence data can be found at XXX [LINK]().
 * [processed_files](https://github.com/adowneywall/dataRepo_template/tree/main/processed_files) - End point products in the analysis pipeline (e.g., List of differentially expressed genes).
 * [results](https://github.com/adowneywall/dataRepo_template/tree/main/results) - Final manuscript results and supplemental.
 * [src](https://github.com/adowneywall/dataRepo_template/tree/main/src) - Pipeline code.
+* [Notebook](https://github.com/adowneywall/dataRepo_template/tree/main/Notebook) - Notebook catalogging analysis process (optional).
 
