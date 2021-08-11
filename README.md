@@ -4,6 +4,10 @@
 
 Repository template for storing data and code associated with an "omic" project or manuscript.
 
+## Sequence data
+
+Sequence can be found at XXX [LINK]().
+
 ## Folders
 
 * [metadata](https://github.com/adowneywall/dataRepo_template/tree/main/metadata) - Metadata files associated with samples (e.g., phenotype, collection location, sample data, etc).
