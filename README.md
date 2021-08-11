@@ -17,6 +17,6 @@
 * [intermediate_files](https://github.com/adowneywall/dataRepo_template/tree/main/intermediate_files) - Intermediate products in the analysis pipeline (e.g., gene count matrix).
 * [processed_files](https://github.com/adowneywall/dataRepo_template/tree/main/processed_files) - End point products in the analysis pipeline (e.g., List of differentially expressed genes).
 * [results](https://github.com/adowneywall/dataRepo_template/tree/main/results) - Final manuscript results and supplemental.
-* [src](https://github.com/adowneywall/dataRepo_template/tree/main/src) - Pipeline code.
+* [src](https://github.com/adowneywall/dataRepo_template/tree/main/src) - Pipeline and exploratory code.
 * [notebook](https://github.com/adowneywall/dataRepo_template/tree/main/notebook) - Notebook catalogging analysis process (optional).
 
