@@ -1,4 +1,6 @@
-# Data and code repository template
+# *Template* : Data and code repository
+
+*Change template to match project or manuscript title* 
 
 ## Description
 
@@ -6,7 +8,7 @@ Repository template for storing data and code associated with an "omic" project 
 
 ## Sequence data
 
-Sequence can be found at XXX [LINK]().
+Raw sequence data can be found at XXX [LINK]().
 
 ## Folders
 
