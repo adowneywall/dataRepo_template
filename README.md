@@ -4,11 +4,11 @@
 
 ## Description
 
-Repository template for storing data and code associated with an "omic" project or manuscript.
+*Add brief description of project*
 
 ## Sequence data
 
-Raw sequence data can be found at XXX [LINK]().
+*Describe where sequence data can be found and add link* [LINK]().
 
 ## Folders
 
